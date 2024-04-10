@@ -1,4 +1,4 @@
-# 🏄‍♂️ アーサー/Art
+# 🎲 アーサー/Art
 
 **`Developer/Writer/Tabletop RPG Lover`**
 
