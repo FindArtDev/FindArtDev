@@ -2,7 +2,7 @@
 
 **`Developer/Writer/Tabletop RPG Lover`**
 
-I'm an independent Full-Stack Developer, Writer and Creator of tabletop RPG systems. All my projects are fundamentally organized. Together documented in a way that encourages and inspires others to undertake new projects.
+## I'm an independent Full-Stack Developer, Writer and Creator of tabletop RPG systems. All my projects are fundamentally organized. Together documented in a way that encourages and inspires others to undertake new projects.
 
  <details open> 
  <summary><h2>🛠️ My Favorite Tools</h2></summary>
