@@ -80,7 +80,7 @@
 
 
 
-<details open> 
+<details close> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 <h3>🔥 Streak Stats</h3>
   
