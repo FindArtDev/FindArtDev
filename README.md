@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933ff&height=120&section=header"/>
 # 🎲 アーサー/Art
 
 **`Developer/Writer/Tabletop RPG Lover`**
@@ -72,14 +73,6 @@
  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-
-
-</details>
-
-
-
-
-
 <details close> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 <h3>🔥 Streak Stats</h3>
@@ -101,3 +94,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FindArtDev&icon=5&color=9)](https://visitcount.itsvg.in)
+
+</details>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933ff&height=120&section=footer"/>
